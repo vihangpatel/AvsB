@@ -1,1 +1,3 @@
 *.log
+.history
+#commit 1
